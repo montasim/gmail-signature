@@ -41,7 +41,6 @@
 
 <p align="left">
   <img align="center" alt="status" src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img align="center" alt="language" src="https://forthebadge.com/images/badges/made-with-html.svg" />
 </p>
 
 <br>
@@ -49,6 +48,12 @@
 <h3 align="left"> Discription : </h3>
 
 <p align="left"> Having a nice looking signature in your email will always make it more professional and put an impression that you care about things. </p>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/montasim/gmail-signature/blob/master/Media/Extra/gmail-signature.png?raw=true">
+</div>
 
 <br>
 
